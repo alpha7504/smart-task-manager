@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Task Manager</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+</head>
+<body>
+  <div class="container">
+    <h1 id="head-text">Smart Task Manager</h1>
+
+    <div id="newtask">
+      <input type="text" placeholder="Add a task">
+      <button id="push">Add</button>
+    </div>
+
+    <div id="progress-container">
+      <div id="progress-bar"></div>
+    </div>
+    <p id="progress-text">0 / 0 tasks completed (0%)</p>
+
+    <button id="clear-all">Delete All Tasks</button>
+
+    <div class="tasks"></div>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
