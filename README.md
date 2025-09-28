@@ -25,7 +25,7 @@ The tasks are saved in your browser, so they stay even if you refresh.
 ---
 
 ## Live Demo  
-[Click here to view on GitHub Pages](https://your-username.github.io/smart-task-manager/)  
+[Click here to view on GitHub Pages](https://alpha7504.github.io/smart-task-manager)  
 
 ---
 
