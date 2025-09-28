@@ -1,54 +1,35 @@
-Task Manager with Progress Tracker
+# Smart Task Manager  
 
-A simple and responsive Task Manager web application built with HTML, CSS, and JavaScript.
-This app allows users to add, edit, complete, and delete tasks while tracking their progress with a visual progress bar.
-Tasks are stored using Local Storage, so they remain even after refreshing or reopening the browser.
+This is my first project. It’s a simple task manager made using **HTML, CSS and JavaScript**.  
+You can add tasks, mark them as done, edit them, or delete them.  
+There is also a **progress bar** that shows how many tasks are completed.  
+The tasks are saved in your browser, so they stay even if you refresh.  
 
-🚀 Features
+---
 
-Add tasks quickly using the input box or Enter key
+## Features  
+- Add new tasks  
+- Edit tasks  
+- Mark tasks as complete  
+- Delete one or all tasks  
+- Progress tracker  
+- Works on mobile and desktop  
 
-Edit tasks inline with an edit option
+---
 
-Mark tasks as complete with a checkbox
+## Technologies  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
 
-Delete tasks individually or clear all tasks at once
+---
 
-Progress tracker showing completed vs total tasks
+## Live Demo  
+[Click here to view on GitHub Pages](https://your-username.github.io/smart-task-manager/)  
 
-Local Storage support for data persistence
+---
 
-Responsive design – works seamlessly on desktop and mobile
-
-🛠️ Technologies Used
-
-HTML5 – Structure of the webpage
-
-CSS3 – Styling, layout, and responsiveness
-
-JavaScript (ES6) – Interactivity, progress tracking, and local storage
-
-📸 Screenshots
-
-(Add screenshots of your app here – one desktop view, one mobile view)
-
-📂 Project Structure
-task-manager/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-
-🌐 Live Demo
-
-🔗 View on GitHub Pages
-
-📌 Future Enhancements
-
-Task categories (Work, Study, Personal)
-
-Due dates and reminders
-
-Dark mode toggle
-
-Cloud sync for multi-device support
+## Future ideas  
+- Task categories  
+- Dark mode  
+- Deadlines/reminders  
